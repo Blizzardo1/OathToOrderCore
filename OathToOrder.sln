@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OathToOrder", "OathToOrder\OathToOrder.csproj", "{80D52BF7-F323-45D5-83CB-ECC4DEFD9504}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OathToOrderCore", "OathToOrderCore\OathToOrderCore.csproj", "{82D2647B-B632-4A1F-95DC-1FB1ED6590AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,11 +9,11 @@ Global
 		Testing|Any CPU = Testing|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{80D52BF7-F323-45D5-83CB-ECC4DEFD9504}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{80D52BF7-F323-45D5-83CB-ECC4DEFD9504}.Release|Any CPU.Build.0 = Release|Any CPU
-		{80D52BF7-F323-45D5-83CB-ECC4DEFD9504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{80D52BF7-F323-45D5-83CB-ECC4DEFD9504}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{80D52BF7-F323-45D5-83CB-ECC4DEFD9504}.Testing|Any CPU.ActiveCfg = Testing|Any CPU
-		{80D52BF7-F323-45D5-83CB-ECC4DEFD9504}.Testing|Any CPU.Build.0 = Testing|Any CPU
+		{82D2647B-B632-4A1F-95DC-1FB1ED6590AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82D2647B-B632-4A1F-95DC-1FB1ED6590AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82D2647B-B632-4A1F-95DC-1FB1ED6590AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82D2647B-B632-4A1F-95DC-1FB1ED6590AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82D2647B-B632-4A1F-95DC-1FB1ED6590AA}.Testing|Any CPU.ActiveCfg = Debug|Any CPU
+		{82D2647B-B632-4A1F-95DC-1FB1ED6590AA}.Testing|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 EndGlobal

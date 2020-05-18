@@ -10,7 +10,7 @@ using System.Drawing.Imaging;
 using System.Globalization;
 using Newtonsoft.Json;
 
-namespace OathToOrder {
+namespace OathToOrderCore {
     internal static class Extensions {
         public static bool IsEmpty(this string s) {
             return string.IsNullOrEmpty(s) || string.IsNullOrWhiteSpace(s);

@@ -12,7 +12,7 @@ using log4net;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 
-namespace OathToOrder {
+namespace OathToOrderCore {
     public partial class Config {
         [JsonProperty("weather-underground-ftp-url")]
         public string WeatherUndergroundFtpUri { get; set; }

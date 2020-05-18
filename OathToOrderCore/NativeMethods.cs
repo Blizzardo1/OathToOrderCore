@@ -4,14 +4,14 @@
 
 #endregion
 
-using System.Runtime.InteropServices;
-
-namespace OathToOrder {
+namespace OathToOrderCore {
     internal static class NativeMethods {
+        #if WIN32
         [DllImport("kernel32")]
         public static extern void AllocConsole();
 
         [DllImport("kernel32")]
         public static extern void FreeConsole();
+        #endif
     }
 }
